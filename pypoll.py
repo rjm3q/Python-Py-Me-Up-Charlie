@@ -4,7 +4,7 @@ Created on Thu Jun 13 18:26:05 2019
 
 @author: rober
 """
-
+#new line
 import os
 import csv
 currentDir = os.getcwd()
